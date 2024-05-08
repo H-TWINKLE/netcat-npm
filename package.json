@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "listen": "node run-listen.js",
+    "send": "node run-send.js"
+  },
+  "dependencies": {
+    "netcat": "^1.5.0"
+  }
+}
