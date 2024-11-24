@@ -4,6 +4,8 @@
     "send": "node run-send.js"
   },
   "dependencies": {
+    "community-faker": "^5.5.5",
+    "faker": "^6.6.6",
     "netcat": "^1.5.0"
   }
 }
